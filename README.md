@@ -7,7 +7,6 @@ Flexible and Adaptable describes me the best. My name is Vaishali, I'm currently
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning MERN Stack Development along with various new technologies
-- 💬 Ask me about ...
 - 📫 How to reach me
 
      E-mail: vaishaliwalia04@gmail.com
