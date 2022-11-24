@@ -4,7 +4,6 @@ Flexible and Adaptable describes me the best. My name is Vaishali, I'm currently
 <!--
 **VaishaliWalia04/VaishaliWalia04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning MERN Stack Development along with various new technologies
 - 📫 How to reach me
